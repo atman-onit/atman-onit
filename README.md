@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Focus-AI%2FML-blueviolet?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Domain-Computer%20Vision-orange?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Domain-CV+ML, Blockchain technology-orange?style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Ships-Hackathon%20Projects-ff69b4?style=for-the-badge"/></a>
 </p>
 
