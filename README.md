@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Atman banner" />
+  <img src="banner.png" width="100%" alt="Atman banner" />
 </p>
 
 <p align="center">
