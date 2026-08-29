@@ -44,8 +44,9 @@
 
 ### 🔥 Featured Projects
 
-> **OmniGuard** — Agentic campus safety intelligence platform. Real-time perception (YOLO26 + pose + fire/smoke detection) feeds an agentic reasoning layer, with humans making the final call. Built for a GGSIPU hackathon with a 5-person team.
-> 📏 **Ratioed** — Face ratio analyzer against golden-ratio proportions, MediaPipe FaceLandmarker + FastAPI.
+-🔐**OmniGuard** — Agentic campus safety intelligence platform. Real-time perception (YOLO26 + pose + fire/smoke detection) feeds an agentic reasoning layer, with humans making the final call. Built for a GGSIPU hackathon with a 5-person team.
+
+-📏 **Ratioed** — Face ratio analyzer against golden-ratio proportions, MediaPipe FaceLandmarker + FastAPI.
 
 
 ---
