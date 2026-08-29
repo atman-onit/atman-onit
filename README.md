@@ -44,16 +44,10 @@
 
 ### 🔥 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/atman-onit/OmniGuard">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=atman-onit&repo=OmniGuard&theme=radical" />
-  </a>
-</p>
-
 > **OmniGuard** — Agentic campus safety intelligence platform. Real-time perception (YOLO26 + pose + fire/smoke detection) feeds an agentic reasoning layer, with humans making the final call. Built for a GGSIPU hackathon with a 5-person team.
 
-- 🛰️ **VitalChain** — Blockchain-based healthcare asset tracking, custom `SimpleChain` hash-linked ledger, FastAPI backend
-- 📏 **Ratioed** — Face ratio analyzer against golden-ratio proportions, MediaPipe FaceLandmarker + FastAPI
+> 🛰️ **VitalChain** — Blockchain-based healthcare asset tracking, custom `SimpleChain` hash-linked ledger, FastAPI backend
+> 📏 **Ratioed** — Face ratio analyzer against golden-ratio proportions, MediaPipe FaceLandmarker + FastAPI
 
 
 ### 🐍 Contribution Snake
