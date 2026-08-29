@@ -55,24 +55,6 @@
 - 🛰️ **VitalChain** — Blockchain-based healthcare asset tracking, custom `SimpleChain` hash-linked ledger, FastAPI backend
 - 📏 **Ratioed** — Face ratio analyzer against golden-ratio proportions, MediaPipe FaceLandmarker + FastAPI
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=atman-onit&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atman-onit&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atman-onit&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atman-onit&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 
@@ -84,11 +66,6 @@
 
 ---
 
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atman-onit&theme=react-dark&hide_border=true" />
-</p>
 
 ---
 
